@@ -3,9 +3,10 @@
 # June 2014
 # A tool for MARI 2.0 and above to set up diffuse, bump, and specular channels 
 # and connect them to appropriate inputs in a specified type of shader. Bump
-# and spec channels are created with a base color of 50% gray. Multiple shaders
-# can be created if the tool is used again. In this case, channels will not 
-# be created again.
+# and spec channels are created with a base color of 50% gray. The diffuse 
+# channel resolution and depth are set to match the newly created bump and spec 
+# channels. Multiple shaders can be created if the tool is used again. In this 
+# case, channels will not be created again.
 # ------------------------------------------------------------------------------
 
 import mari
