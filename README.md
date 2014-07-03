@@ -5,7 +5,7 @@ A tool for MARI 2.0 and above to set up diffuse, bump, and specular channels and
 
 How to use:
 
-1. Copy and paste shaderSetup.py, shaderSetupGui.py, and shaderSetupGuiLoader.py to your /Mari/Scripts folder, or create a new folder for these scripts and add the path to your MARI_SCRIPT_PATH in your bash file.
+1. Download and save shaderSetup.py, shaderSetupGui.py and shaderSetupGuiLoader.py in your /Mari/Scripts folder, or create a new folder for these scripts and add the path to your MARI_SCRIPT_PATH in your bash file.
 2. Open Mari. If you already had Mari open, close it and open it again for the new scripts to take effect.
 3. Create a new project in Mari.
 4. In your toolbar, you should see a monkey icon. Click it to open the Shader Setup tool. 
