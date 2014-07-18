@@ -57,7 +57,7 @@ class shaderSetupClass:
 		self.subTypeBox.addItem("Flat")
 		self.subTypeBox.addItem("BRDF")
 		self.subTypeBox.addItem("Standard Lighting")
-		# set default to PHong
+		# set default to Flat
 		self.subTypeBox.setCurrentIndex(0)
 		
 		# create resolution drop down
